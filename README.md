@@ -6,7 +6,7 @@ FCC Front End Project
 
 
 ## Build status
-Building Components
+Building Components & 
 Working on CSS Styling
 
 ## Tech/framework used
