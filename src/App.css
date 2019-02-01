@@ -30,3 +30,19 @@
     transform: rotate(360deg);
   }
 }
+
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:rgb(242, 230, 230);
+  overflow-x: hidden;
+}
+
+.markdowninput{
+   margin-left: 200px;
+  padding-left: 20px;
+}
