@@ -38,7 +38,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color:rgb(242, 230, 230);
+  background-color:#EEE8AA;
   overflow-x: hidden;
 }
 
@@ -63,7 +63,7 @@
 
 .box{
   border-radius: 5px;
-  background-color:rgb(189, 214, 222);
+  background-color: #DCD0C0 ;
   padding: 100px;
   margin-left: 200px;
   padding-left: 20px;
@@ -71,25 +71,3 @@
   
 }
 
-.box:before {
-  content: open-quote;
-  display: inline;
-  height: 0;
-  line-height: 0;
-  left: -10px;
-  position: relative;
-  top: 30px;
-  color:black;
-  font-size: 3em;
-}
-.box:after {
-  content: close-quote;
-  display: inline;
-  height: 0;
-  line-height: 0;
-  left: 10px;
-  position: relative;
-  top: 35px;
-  color:black;
-  font-size: 3em;
-}
